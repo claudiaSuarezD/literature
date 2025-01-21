@@ -16,11 +16,13 @@ Funcionalidad 4 : Mostrar libro por año, el cual el usuario registra un número
 Funcionalidad 5 : Mostrar libro por idioma, permite buscar por dos idiomar español y ingles.
 
 # Tecnología
-Lenguaje de programación : java
-Marco/Dependencias : Spring
-API utilizada : [Abrirhttps ://opeAPI
-Base de datos : SQLite
-Realizar pruebas:Postman
+-  Lenguaje de programación : java
+- Marco/Dependencias : Spring
+- API utilizada : [Abrirhttps ://opeAPI
+- Base de datos : SQLite
+- Realizar pruebas:Postman
+
+
 
 
 
